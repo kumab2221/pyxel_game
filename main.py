@@ -9,6 +9,6 @@ def update():
 
 def draw():
     pyxel.cls(0)
-    pyxel.text(50, 60, "Kuma help??", 7)
+    pyxel.text(50, 60, "Kuma OK??", 7)
 
 pyxel.run(update, draw)
